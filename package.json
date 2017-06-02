@@ -1,0 +1,19 @@
+{
+  "name": "Mouse",
+  "version": "1.0.0",
+  "keywords": [
+    "util",
+    "functional",
+    "server",
+    "client",
+    "browser"
+  ],
+  "author": "ggo",
+  "contributors": [],
+  "dependencies": {
+    "express": "^4.15.3",
+    "iohook": "^0.1.9",
+    "robotjs": "^0.4.7",
+    "socket.io": "^2.0.2"
+  }
+}
